@@ -1,3 +1,4 @@
+## Welcome to the Group Project Repository
 ### Group Project - General Description
 #### INFO233 -Group Project
 
