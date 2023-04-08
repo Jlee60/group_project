@@ -1,6 +1,6 @@
 # Group Project Phase I
 
-Fall 2022 INFO-233 Group Project – Phase I – Project Definition
+INFO-233 Group Project – Phase I – Project Definition
 Project Name:
 Team Name:
 

@@ -1,6 +1,6 @@
 # Group Project Phase III
 
-Fall 2022 INFO-233 Group Project – Phase III – Project Presentation
+INFO-233 Group Project – Phase III – Project Presentation
 Project Name:
 Team Name:
 In this Phase, you will complete a PowerPoint presentation on your project submission. 
