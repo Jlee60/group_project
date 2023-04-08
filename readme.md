@@ -22,6 +22,7 @@ Your program must include the following:
 - Must handle errors - i.e wrong type, input is incorrect. Basically, I should not be able to crash your program simply by using the program as it was designed
 - Must use at least one data type – (Tuple, List, Dictionary)
 - Must be unique code - You research how to do something, but the code must be your team's code. No Copying directly from the research
+- Optional for extra credit, declare a class and create objects with attributes and methods used in the code. 
  
 
 #### Phases
