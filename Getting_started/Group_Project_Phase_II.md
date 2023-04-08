@@ -1,6 +1,6 @@
 # Group Project Phase II
 
-Fall 2022 INFO-233 Group Project – Phase II – Coding
+INFO-233 Group Project – Phase II – Coding
 Project Name:
 Team Name:
 In Phase II, your team will code your project and get it running, test it, and deploy it to the Production Release area of the Github repository
